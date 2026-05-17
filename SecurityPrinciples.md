@@ -1,4 +1,4 @@
-## preparing for cybersecurity Exam. this repo is to take notes for what I studied
+## Understand the security concepts of information assurance
 
 - Information Assurance (IA) in cubersecurity ensures the integrity availibility, confidentiality, authenticity, and non-repoudiation of data. To master IA, organization rely on strategic framework to proactively manage risk, withstand business, and maintain  operational  resiliance.
 
