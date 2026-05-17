@@ -6,7 +6,7 @@
 
 1) Confidentialit
 
-* what it is: the principle of  ensuring that sensitive data is only accessible to those with autorized access.
+* <b>what it is</b>: the principle of  ensuring that sensitive data is only accessible to those with autorized access.
 * How it works: It prevent unauthorized disclusre of personally identifiable information (PII) and intellectual property.
 
 ### main
