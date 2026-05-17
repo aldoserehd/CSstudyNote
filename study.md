@@ -1,0 +1,1 @@
+## preparing for cybersecurity Exam. this repo is to take notes for what I studied
