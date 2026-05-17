@@ -14,3 +14,10 @@
 ## main
 
 # main 
+
+
+## Understand the risk management process
+
+
+
+## Understand security controls
